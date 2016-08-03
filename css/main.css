@@ -1,0 +1,214 @@
+/*header*/
+.logo{
+	height: 70px;
+	width: 75px;
+	margin-top: 15px;
+	margin-left: 65px;
+	margin-bottom: 15px;
+}
+nav{
+	margin-left: 150px;
+	margin-bottom: 15px;
+	font-family: helvetica;
+}
+.menu{
+	display: inline-block;
+	padding: 5px;
+	color: gray;
+	margin-top: 45px;
+}
+/*section 1*/
+.semilla{
+	height: 450px;
+	width: 101%;
+}
+.gris{
+	background-color: lightgray;
+	height: 150px;
+}
+.texto1{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 14px;
+	color: gray;
+	padding-top: 60px;
+}
+/*section 2-mision vision*/
+.misvis{
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+.mv{
+	height: 70px;
+	width: 70px;
+	margin-left: 308px;
+}
+h3{
+	text-align: center;
+	font-family: helvetica;
+}
+.tm{
+	font-size: 12px;
+	text-align: center;
+	font-family: helvetica;
+	color: black;
+}
+/*section 3-metodologia*/
+.metodo{
+	width: 105%;
+	height: 400px;
+}
+.verde{
+	background-image: url("../img/fondo.jpg");
+	height: 400px;
+}
+.met{
+	margin-left: 312px;
+	margin-top: 120px;
+}
+.metod{
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+	margin-top: 30px;
+}
+.tm2{
+	font-size: 12px;
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+	margin-top: 30px;
+}
+/*section 4*/
+.serv{
+	margin-top: 50px;
+	font-family: helvetica;
+}
+.ts{
+	margin-top: 15px;
+	text-align: center;
+	font-family: helvetica;
+	margin-bottom: 50px;
+}
+.imgserv{
+	height: 65px;
+	width: 65px;
+	margin-left: 190px;
+}
+h5{
+	color: darkgreen;
+	text-align: center;
+}
+.textserv{
+	color: black;
+	font-size: 10px;
+	padding-top: 5px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+/*section 5-proyectos*/
+#titulo{
+	color: white;
+	text-align: left;
+	padding-top: 50px;
+	margin-left: 130px;
+	font-family: helvetica;
+
+}
+.proyectos{
+	color: white;
+	text-align: center;
+	margin-top: 150px;
+	font-family: helvetica;
+}
+.fp{
+	height: 300px; 
+	width: 450px;
+	margin-left: 120px;
+}
+.distrito{
+	color: white;
+	font-weight: 700;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 13px;
+}
+.tm2{
+	font-family: helvetica;
+	font-size: 12px;
+	color: white;
+}
+.sec5{
+	background-color: #86B404;
+	height: 720px;
+}
+/*section 6-equipo*/
+#eq{
+	text-align: left;
+	margin-top: 50px;
+}
+.equipo{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	margin-left: 240px;
+}
+.equipo2{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	margin-left: 240px;
+	margin-top: 67px;
+}
+.cargo{
+	font-weight: 700;
+	text-align: center;
+	font-size: 10px;
+	font-family: helvetica;
+}
+h4{
+	text-align: center;
+	font-family: helvetica;
+}
+.te{ 
+	text-align: center;
+	font-family: helvetica;
+	font-size: 10px;
+	padding-bottom: 30px;
+}
+.rs{
+	margin-left: 290px;
+	padding-bottom: 60px;
+}
+.redes{
+	width: 30px;
+	height: 30px;
+}
+/*section 7-blog*/
+.papel{
+	background-image: url("../img/fondo2.jpg");
+}
+.bn1{
+
+}
+.posts{
+	height: 200px;
+	width: 300px;
+}
+.tp{
+
+}
+.fecha{
+
+}
+.textp{
+
+}
+/*section 8-redes*/
+.casinegro{ 
+	background-color: black;
+	height: 350px;
+ }
+td{
+	border: lightgray;
+}
